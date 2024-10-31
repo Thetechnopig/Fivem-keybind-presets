@@ -1,0 +1,59 @@
+How to create a custom keybind:
+Press F8
+Type: bind KEYBOARD F3 "e dance"
+How to remove a custom keybind:
+Press F8
+Type: unbind keyboard F3
+
+(Toggles Color)
+~w~ = White
+~r~ = Red
+~b~ = Blue
+~g~ = Green
+~y~ = Yellow
+~p~ = Purple
+~c~ = Grey
+~m~ = Dark Grey
+~u~ = Black
+~o~ = Orange
+
+¦ = Rockstar Verified Icon
+
+----MY KEYBINDS
+
+-Sh***ing On The Dead Opps
+bind keyboard "numpad3" "me ~y~¦ ~r~Shitting ~w~On ~w~The ~w~Dead ~r~Opps ~y~¦"
+bind keyboard "numpad3" "e shit"
+
+-MB, Your B*tch Calling
+bind keyboard "numpad5" "me ~y~¦ ~w~MB, ~w~Your ~r~B*tch Calling ~y~¦"
+bind keyboard "numpad5" "e leanphone"
+
+-Reload Bind
+bind keyboard "r" "me ~y~¦ ~r~I'm ~g~Reloading ~r~ F*cktard ~y~¦"
+
+-D**d FN
+bind keyboard "numpad1" "me ~y~¦ ~w~You're ~r~Dead ~g~FN ~y~¦"
+bind keyboard "numpad1" "e bang"
+
+-This You?
+bind keyboard "numpad4" "me ~y~¦ ~w~This ~r~You? ~y~¦"
+bind keyboard "numpad4" "e passout4"
+
+-Did It To You
+bind keyboard "numpad3" "me ¦ ~r~YOURNAME ~s~Did It To You¦"
+bind keyboard "numpad3" "e stumble"
+
+-Pee
+bind keyboard "numpad3" "me ¦ ~y~Pissin ~s~On The Dead ~r~Opps¦"
+bind keyboard "numpad3" "e pee"
+
+-Passout
+bind keyboard "numpad3" "me ¦ ~r~Let ~g~Me ~r~Be ~g~You ~r~Real ~g~Quick ~y~¦"
+bind keyboard "numpad3" "e passout"
+
+-Any Command
+bind keyboard "rshift" "repair"
+
+-Unbind
+unbind keyboard "rshift"
